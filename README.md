@@ -17,13 +17,9 @@ Everyone is welcome to contribute by adding their name and contact info to `Cont
 ---
 
 # 📌 Objective
-
 - Practice Git basics: clone, commit, push, pull, fork, branch, and pull requests.
 - Learn how to contribute to open-source projects.
 
----
-
-# 📥 How to Join
 
 # How to Contribute 💡
 
@@ -31,7 +27,7 @@ Everyone is welcome to contribute by adding their name and contact info to `Cont
     Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 2. **Clone your fork**
   
-   git clone "url you just copied"
+    git clone "url you just copied"
 
 3. # Create a branch
     cd collaboration-practice
@@ -43,14 +39,14 @@ Everyone is welcome to contribute by adding their name and contact info to `Cont
     from the file on your pc , or in the terminal if your comfortable
     open the contributors.md file and add your info
 **Add your info, a message if you want and an emoji or two**
-[Jane Doe] - (jane@example.com)**message** emoji of choice 
+    [Jane Doe] - (jane@example.com)**message** emoji of choice 
 
 5. **Stage and commit your changes:**
     (change your name to your actual name)
 
-git add Contributors.md
-git commit -m "Add yourname to contributors"
-git push origin main
+    git add Contributors.md
+    it commit -m "Add yourname to contributors"
+    git push origin main
 
 6. # Go back to git hub **make sure to go back to see it**
     You'll see a Compare & pull request button.
