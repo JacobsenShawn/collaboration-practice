@@ -9,7 +9,7 @@ Please bare with me Im still learning , but I used ChatGpt to help with the inst
 
 
 
-Welcome! 🎉
+Welcome! 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
 
 This repository is for **learning how to use Git and GitHub** through collaboration.  
 Everyone is welcome to contribute by adding their name and contact info to `Contributors.md`.
