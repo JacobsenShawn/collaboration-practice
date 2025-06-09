@@ -16,14 +16,14 @@ Everyone is welcome to contribute by adding their name and contact info to `Cont
 
 ---
 
-## 📌 Objective
+# 📌 Objective
 
 - Practice Git basics: clone, commit, push, pull, fork, branch, and pull requests.
 - Learn how to contribute to open-source projects.
 
 ---
 
-## 📥 How to Join
+# 📥 How to Join
 
 # How to Contribute 💡
 
@@ -35,7 +35,7 @@ Everyone is welcome to contribute by adding their name and contact info to `Cont
 
 3. # Create a branch
     cd collaboration-practice
-    # Now create a branch using the git switch command:
+    ## Now switch and create using the git switch command:
      git switch -c what-ever-you-want-to-name-it
      Example:
      git switch -c shawn
